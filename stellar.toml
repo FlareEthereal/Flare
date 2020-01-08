@@ -1,0 +1,46 @@
+ACCOUNTS=[
+"GCBLFRRABZSRGHTPEVHTAPZN7MYK7Y4OIBOC437DNE7EDWC5N367FFF7",
+"GB2ABWGFLPWCB7G66HXMA4PUOKD72X6SMXQ6DNA2MAFXQS2KF7CFQIRE",
+"GBBCSKDYFTMTCXPLQEJCUQAWWCEL6SNJV3MANZGT6PTQQXLGNDXCFFFC"]
+
+[DOCUMENTATION]
+ORG_NAME="THE FLARE"
+ORG_URL="https://theflare.net"
+ORG_LOGO="https://theflare.net/wp-content/uploads/2019/09/flar250.png"
+ORG_DESCRIPTION="World's First No Self-Destruct Deflationary Currency"
+ORG_TWITTER="https://twitter.com/TheFlarenet"
+ORG_GITHUB="https://github.com/FlareEthereal"
+ORG_OFFICIAL_EMAIL="info@theflare.net"
+
+[[CURRENCIES]]
+code="FLARE"
+issuer="GCBLFRRABZSRGHTPEVHTAPZN7MYK7Y4OIBOC437DNE7EDWC5N367FFF7"
+display_decimals=7
+name="THE FLARE"
+desc="World's First No Self-Destruct Deflationary Currency"
+conditions="Total issued 1,000,000,000 FLARE. Maximum circulating supply 500,000,000 FLARE. Frezzed supply 500,000,000 FLARE"
+image="https://theflare.net/wp-content/uploads/2019/09/flar250.png"
+status="live"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code="FIRE"
+issuer="GB2ABWGFLPWCB7G66HXMA4PUOKD72X6SMXQ6DNA2MAFXQS2KF7CFQIRE"
+display_decimals=7
+name="THE FIRE"
+desc="World's First No Self-Destruct Deflationary Currency"
+conditions="Total issued 100,000,000 FIRE. Maximum circulating supply 50,000,000 FIRE. Frezzed supply 50,000,000 FIRE"
+image="https://theflare.net/wp-content/uploads/2019/09/flar250.png"
+status="live"
+fixed_number=100000000
+
+[[CURRENCIES]]
+code="FLAME"
+issuer="GBBCSKDYFTMTCXPLQEJCUQAWWCEL6SNJV3MANZGT6PTQQXLGNDXCFFFC"
+display_decimals=7
+name="THE FLAME"
+desc="World's First No Self-Destruct Deflationary Currency"
+conditions="Total issued 2,000,000 FLAME. Maximum circulating supply 1,000,000 FLAME. Frezzed supply 1,000,000 FLAME"
+image="https://theflare.net/wp-content/uploads/2019/09/flar250.png"
+status="live"
+fixed_number=2000000
